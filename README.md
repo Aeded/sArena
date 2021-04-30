@@ -1,5 +1,5 @@
 # sArena
-Backported Shadowlands version of sArena for TBC Classic
+Backported Shadowlands version 3.1.7 of sArena for TBC Classic
 
 
 Update(30.4.)
