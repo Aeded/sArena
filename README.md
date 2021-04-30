@@ -3,7 +3,6 @@ Backported Shadowlands version 3.1.7 of sArena for TBC Classic
 
 
 Update(30.4.)
-1. Fixed stealthed targets not showing
 2. Enabled Trinket CD tracking
 
 Update(27.4.)
@@ -15,5 +14,7 @@ Update(25.4.)
 
 Known Issues:
 1. Some Auras may not show due to wrong spellIDs
+2. HP % doesnt show
+3. Frames still dont show if enemy stealths before arena gate opens
 
 
