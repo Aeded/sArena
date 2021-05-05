@@ -2,6 +2,10 @@
 Backported Shadowlands version 3.1.7 of sArena for TBC Classic
 
 
+Update(5.5.)
+1. Stealth targets not showing fixed?
+2. Returned HP and Mana text
+
 Update(30.4.)
 1. Stealth targets not showing is better but still not fully fixed pepehands
 2. Enabled Trinket CD tracking
