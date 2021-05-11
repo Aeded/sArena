@@ -20,7 +20,4 @@ Update(25.4.)
 
 Known Issues:
 1. Some Auras may not show due to wrong spellIDs
-2. HP % doesnt show
-3. Frames still dont show if enemy stealths before arena gate opens
-
 
