@@ -1,9 +1,12 @@
 # sArena
 Backported Shadowlands version 3.1.7 of sArena for TBC Classic
 
+Update(5.5.)
+1. Support for 5s added.
+2. some other bug fixes
 
 Update(5.5.)
-1. Stealth targets not showing fixed?
+1. Stealth targets not showing fixed.
 2. Returned HP and Mana text
 3. Fixed test frames not showing
 
