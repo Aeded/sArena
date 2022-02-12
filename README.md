@@ -1,6 +1,10 @@
 # sArena
 Backported Shadowlands version 3.1.7 of sArena for TBC Classic
 
+Update(12.02.22)
+1. Added dummy frame for stealthed units
+2. Arena frame now shows arenaslotID
+
 Update(18.5.)
 1. Support for 5s added.
 2. some other bug fixes
